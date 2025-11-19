@@ -1,4 +1,4 @@
-# Messenger Lite (Simple Chat Box)
+# Messenger Lite (Simple Chat App)
 
 Đồ án Mạng Máy Tính - Hệ thống Chat Mạng Real-time đơn giản.
 
